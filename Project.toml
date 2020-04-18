@@ -1,0 +1,4 @@
+name = "svopt"
+uuid = "6b6e983c-6d47-494e-a6b0-9a4de77faed2"
+authors = ["Czapkaman <kubicki.mateusz97@gmail.com>"]
+version = "0.1.0"
